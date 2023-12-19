@@ -1,0 +1,31 @@
+Name: Yujie Feng
+CSE 160
+Homework 6
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+2009 Iranian election MSE: 0.0007395833333333335
+Quantity of MSEs larger than or equal to the 2009 Iranian election MSE: 359
+Quantity of MSEs smaller than the 2009 Iranian election MSE: 9641
+2009 Iranian election null hypothesis rejection level p: 0.0359
+
+Answer to Problem 7:
+
+Although, it's 3.6% of genuine elections would be as different from the uniform distribution as the Iranian election was.
+but it's within the range of 5% threshhold, so it may be fraudulent, but that wouldn't be high possibility.
+
+Answer to Problem 8:
+
+2008 United States election MSE: 0.0002566300868770006
+Quantity of MSEs larger than or equal to the 2008 United States election MSE: 550
+Quantity of MSEs smaller than the 2008 United States election MSE: 9450
+2008 United States election null hypothesis rejection level p: 0.055
+
+it's larger than 5%, so it may be fraudulent, and with an amount of possibilities.
+
+Collaboration: Yuhui Xiang
+
+
+
